@@ -1,6 +1,6 @@
 CPU Cache Timing Experiment — Observation Report
 =================================================
-Name   : [Your Name]
+Name   : Sougata Pal
 Date   : April 2026
 Tool   : C program using clock_gettime(), compiled with GCC (Dev C++)
 
